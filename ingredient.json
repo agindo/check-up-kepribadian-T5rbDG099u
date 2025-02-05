@@ -1,0 +1,48 @@
+{
+  "check_up": [
+    {
+      "id": 1,
+      "title": "Bagaimanakah Kepribadianmu?",
+      "description": null,
+      "lists": [
+        {
+          "id": "Ob7HlhN8a0",
+          "question": "Pada suatu hari, ada seekor burung berwarna hitam yang hinggap di jendela rumah Anda. Karena anda tertarik dengan burung tersebut, Anda sangat ingin memeliharanya. Namun, di hari kelima, ternyata burung tersebut berubah warna menjadi kuning. Selanjutnya, di hari keenam, burung tersebut berubah menjadi warna merah, dan di hari ketujun burung tersebut berubah menjadi hitam. Pertanyaannya, dihari ke delapan warna burung tersebut akan berubah menjadi apa?",
+          "options": [
+            "Tetap hitam",
+            "Berubah menjadi biru",
+            "Berubah menjadi putih",
+            "Berubah menjadi emas"
+          ]
+        },
+        {
+          "id": 0,
+          "question": null,
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": null,
+      "description": null,
+      "lists": [
+        {
+          "id": 0,
+          "question": null,
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
