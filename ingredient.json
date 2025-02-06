@@ -16,6 +16,16 @@
           ]
         },
         {
+          "id": "r7reRjW271",
+          "question": "Coba bayangkan, anggap saja Anda sedang berada di sebuah dataran tinggi dengan langit yang berwarna biru. Kemudian, bayangkan Anda sedang berada sebuah tempat yang sangat sejuk dan tenang. Menurut Anda, tempat tersebut adalah?",
+          "options": [
+            "Sebuah dataran yang dipenuhi dengan salju berwarna putih",
+            "Sebuah pantai yang biru dan indah",
+            "Sebuah pegunungan yang hijau dan menyejukkan",
+            "Sebuah padang yang dipenuhi dengan bunga-bunga berwarna kuning"
+          ]
+        },
+        {
           "id": 0,
           "question": null,
           "options": [
